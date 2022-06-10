@@ -1,9 +1,5 @@
-package vtp.day4.workshop;
+package vtpday4workshop;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

@@ -1,4 +1,4 @@
-package vtp.day4.workshop;
+package vtpday4workshop;
 
 import static org.junit.Assert.assertTrue;
 
